@@ -1,4 +1,4 @@
-### Alan Typing...
+<h1>Alan Typing...</h1>
 
 <h3>Progress</h3>
 
