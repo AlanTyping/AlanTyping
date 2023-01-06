@@ -4,7 +4,7 @@
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AlanTyping&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
+<img height="220rem" src="https://github-readme-stats.vercel.app/api?username=AlanTyping&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
 </div>
  
  <h2>Contact me!</h2>  
