@@ -2,7 +2,7 @@
 
 <h1>Progress</h1>
 
-![snake gif](https://github.com/AlanTyping/AlanTyping/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/AlanTyping/AlanTyping/blob/output/github-contribution-grid-snake.gif)
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
