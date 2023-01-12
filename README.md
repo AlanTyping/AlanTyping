@@ -1,7 +1,7 @@
-<h3>Progress</h3>
 
 <div>
  <!--
+<h3>Progress</h3>
 <a href="https://github.com/AlanTyping">
 <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=AlanTyping&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
 </div> -->
