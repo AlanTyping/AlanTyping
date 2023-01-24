@@ -1,6 +1,6 @@
 <h1>Frontend Developer </h1>
 <div>
- <p>I like to constantly learn new stuff about the IT word</p>
+ <p>I´m constantly learning new stuff about the IT word</p>
  <!--
 <h3>Progress</h3>
 <a href="https://github.com/AlanTyping">
