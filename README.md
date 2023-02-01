@@ -1,4 +1,4 @@
-<h1>Frontend Developer </h1>
+<h1>Frontend Developer</h1>
 <div>
  <p>I´m constantly learning new stuff about the IT word</p>
  <!--
