@@ -1,3 +1,6 @@
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)]()
+[![npm version](https://img.shields.io/badge/npm-v2.1.0-brightgreen)](https://www.npmjs.com/package/next-gallery)
+
 <h1>Frontend Developer</h1>
 <div>
  <p>I´m constantly learning new stuff about the IT word </p>
