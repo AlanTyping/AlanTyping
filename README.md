@@ -44,16 +44,6 @@ I enjoy designing systems that are **modular, scalable, and easy to evolve**.
 
 ---
 
-## 🧱 Development Principles
-
-- Clean Architecture
-- Feature-first project organization
-- Separation of concerns
-- Scalable frontend architectures
-- Maintainable and testable code
-
----
-
 ## 🌐 Portfolio
 
 You can see my work and projects here:
